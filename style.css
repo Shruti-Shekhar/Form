@@ -1,0 +1,39 @@
+table
+{
+  border-collapse:collapse;
+  width:100%;
+}
+h3
+{
+  text-align:center;
+}
+.col
+{
+  background:lightblue;
+  text-align:center;
+}
+img
+{
+  width:150px;
+    height:150px;
+}
+div
+{
+  padding-left:1%;
+  padding-right:1%;
+  padding-bottom:1%;
+}
+td
+{
+  padding:1%;
+}
+input
+{
+  border:none;
+  width:95%;
+}
+caption
+{
+  caption-side:middle;
+  margin-left:60%;
+}
